@@ -1,0 +1,24 @@
+{
+  "name": "btcwallet",
+  "version": "1.0.0",
+  "description": "Development a project for create a Wallet simulating a Coin. Challenge in bootcamp Web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago-Cardoso/BtcWallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago-Cardoso/BtcWallet/issues"
+  },
+  "homepage": "https://github.com/Thiago-Cardoso/BtcWallet#readme",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.6"
+  }
+}
